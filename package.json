@@ -1,0 +1,24 @@
+{
+  "name": "remark-math",
+  "version": "0.1.0",
+  "description": "remark plugin to support abc music notation",
+  "license": "MIT",
+  "keywords": [
+    "unified",
+    "remark",
+    "plugin",
+    "mdast",
+    "markdown",
+    "music",
+    "abc"
+  ],
+  "repository": "https://github.com/Dabolus/remark-music",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
