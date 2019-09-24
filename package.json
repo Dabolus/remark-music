@@ -1,6 +1,6 @@
 {
   "name": "remark-math",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "remark plugin to support abc music notation",
   "license": "MIT",
   "keywords": [
