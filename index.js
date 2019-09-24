@@ -203,9 +203,9 @@ function attachParser(parser) {
 function attachCompiler(compiler) {
   const proto = compiler.prototype;
 
-  proto.visitors.music = compileBlockMath;
+  proto.visitors.music = compileBlockMusic;
 
-  function compileBlockMath(node) {
+  function compileBlockMusic(node) {
     return '§§\n' + node.value + '\n§§';
   }
 }
