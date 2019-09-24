@@ -1,6 +1,6 @@
 # remark-music
 
-[**remark**][remark] plugin to parse and stringify music.
+**remark** plugin to support abc music notation.
 
 ## Install
 
